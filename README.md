@@ -14,7 +14,7 @@ Profile views: ![Profile views](https://profile-counter.glitch.me/gritzkoo/count
 
 - I'm from 🇧🇷 **(UTC -3)**
 - 🔭 I’m currently working on
-[![dextra digital](https://www.dextra.com.br/wp-content/uploads/2020/08/Logos_Dextra-1.png)](https://dextra.com.br)
+[![CI&T](https://ciandt.com/themes/custom/ciandt_theme/logo.svg)](https://ciandt.com/br)
 - 🌱 I’m currently learning ...
 ![golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
