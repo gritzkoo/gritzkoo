@@ -16,9 +16,10 @@ Profile views: ![Profile views](https://profile-counter.glitch.me/gritzkoo/count
 - 🔭 I’m currently working on
 [![CI&T](https://ciandt.com/themes/custom/ciandt_theme/logo.svg)](https://ciandt.com/br)
 - 🌱 I’m currently learning ...
-![golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![helm](https://img.shields.io/static/v1?message=HELM&color=blue&logo=helm&logoColor=white&style=for-the-badge&label=)
+![backstage](https://img.shields.io/static/v1?message=backstage&color=black&logo=spotify&logoColor=green&style=for-the-badge&label=)
+
 - Main repositories and packages:
   - Nodejs Heath Checker
     - [Github page](https://github.com/gritzkoo/nodejs-health-checker)
@@ -31,7 +32,7 @@ Profile views: ![Profile views](https://profile-counter.glitch.me/gritzkoo/count
   |:-|:-|
   |`languages`|![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)|
   |`databases`|![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)|
-  |`cloud`|![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)![amazon aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)|
+  |`cloud`|![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)![amazon aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)![helm](https://img.shields.io/static/v1?message=HELM&color=blue&logo=helm&logoColor=white&style=for-the-badge&label=)|
   |`pipe lines`|![circle ci](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)![gitactions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)|
   |`OS`|![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![apline linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)|
 - 📫 How to reach me:
