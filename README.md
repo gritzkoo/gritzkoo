@@ -12,16 +12,16 @@ Profile views: ![Profile views](https://profile-counter.glitch.me/gritzkoo/count
 \
 ![profile trophy](https://github-profile-trophy.vercel.app/?username=gritzkoo&row=2&column=3 "profile trophy")
 
-- I'm from 🇧🇷 **(UTC -3)**
+- I'm from 🇧🇷 living in 🇩🇪 **(UTC +1)**
 - 🔭 I’m currently working on
-[![CI&T](https://ciandt.com/themes/custom/ciandt_theme/logo.svg)](https://ciandt.com/br)
+[![Global Fashion Group](https://global-fashion-group.com/wp-content/themes/global-fashion-group/assets/img/logos/GFG-LOGO-WHITE.svg)](https://global-fashion-group.com/)
 - 🌱 I’m currently learning ...
 ![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![helm](https://img.shields.io/static/v1?message=HELM&color=blue&logo=helm&logoColor=white&style=for-the-badge&label=)
 ![backstage](https://img.shields.io/static/v1?message=backstage&color=black&logo=spotify&logoColor=green&style=for-the-badge&label=)
 
 - Main repositories and packages:
-  - Nodejs Heath Checker
+  - Nodejs Health Checker
     - [Github page](https://github.com/gritzkoo/nodejs-health-checker)
     - [NPM page](https://www.npmjs.com/package/nodejs-health-checker)
   - Golang Health Checker
@@ -38,7 +38,7 @@ Profile views: ![Profile views](https://profile-counter.glitch.me/gritzkoo/count
 - 📫 How to reach me:
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/Gritzko#3591/)
 - 😄 Pronouns: **(He/Him)**
-- ⚡ Fun fact: **I like to watch japanese animation (ANIME) and play piano**
+- ⚡ Fun fact: **I like to watch Japanese animation (ANIME) and play piano**
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
